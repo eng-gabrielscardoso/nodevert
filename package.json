@@ -1,0 +1,24 @@
+{
+  "name": "nodevert",
+  "description": "Conversor de ficheiros feito com NodeJS",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "html-pdf": "^3.0.1"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eng-gabrielscardoso/nodevert.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eng-gabrielscardoso/nodevert/issues"
+  },
+  "homepage": "https://github.com/eng-gabrielscardoso/nodevert#readme"
+}
